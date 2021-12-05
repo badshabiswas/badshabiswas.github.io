@@ -25,7 +25,7 @@ a:link {
 }
 
 a:visited {
-  color: pink;
+  color: yellow;
   background-color: transparent;
   text-decoration: none;
 }
@@ -37,7 +37,7 @@ a:hover {
 }
 
 a:active {
-  color: yellow;
+  color: magenta;
   background-color: transparent;
   text-decoration: underline;
 }
