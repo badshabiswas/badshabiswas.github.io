@@ -13,6 +13,31 @@ body {
 	font-size: 12px;
 	color: #4b4b4b;
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: aqua;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: aqua;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
 
 h1, h2, h3 {
 	margin: 0;
