@@ -1,10 +1,4 @@
 
-/*
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
-*/
-
 body {
 	margin: 0px 0px 0px 0px;
 	padding: 0;
@@ -536,3 +530,13 @@ ul.style3 .first .date
 	text-shadow: 1px 1px 0px #FCE3BB;
 	color: #36332E !important;
 }
+
+
+.navbar { background-color: #484848; }
+.navbar .navbar-nav .nav-link { color: #fff; }
+.navbar .navbar-nav .nav-link:hover { color: #fbc531; }
+.navbar .navbar-nav .active > .nav-link { color: #fbc531; }
+
+footer a.text-light:hover { color: #fed136!important; text-decoration: none; }
+footer .cizgi { border-right: 1px solid #535e67; }
+@media (max-width: 992px) { footer .cizgi { border-right: none; } }
