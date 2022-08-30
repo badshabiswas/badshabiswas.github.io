@@ -1,9 +1,4 @@
 
-/*
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
-*/
 
 body {
 	margin: 0px 0px 0px 0px;
@@ -172,6 +167,7 @@ box-shadow:
 /** CONTENT */
 
 #wide-content {
+	margin-top: 80px;
 	padding: 50px;
 	border: 10px solid #f1f1f1;
 }
